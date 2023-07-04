@@ -1,8 +1,15 @@
 
+Hi there 👋
 
-### 某不知名 ʕ◔ϖ◔ʔ 爱好者
+I’m Northes, an unknown ʕ◔ϖ◔ʔ enthusiast. A software engineer who specializes in back-end development, software architecture, cloud infrastructure, microservices and event driven. I am a person who works hard and always tries to learn something new. I love working with Go, PHP, Rust, Svelte, Vue and some cool stuff.
 
+## 🍞 Github Stats
 
+![Stats](https://github-readme-stats.vercel.app/api?username=northes&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)
+
+## 👾 Top Language
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=northes&layout=compact)
 
 <!---
 northes/northes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
