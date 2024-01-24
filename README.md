@@ -7,7 +7,7 @@ I’m Northes, an unknown ʕ◔ϖ◔ʔ enthusiast. A software engineer who speci
 
 Support my creation through the following platforms!
 
-[![](https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png)](https://afdian.net/a/northes)
+<a href="https://afdian.net/a/northes" target="_blank"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a >
 
 [https://afdian.net/a/northes](https://afdian.net/a/northes)
 
